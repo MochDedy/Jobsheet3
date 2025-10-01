@@ -9,6 +9,7 @@ public class MenghitungTotalBayar14 {
         double Potongan;
         double JmlBayar;
         double diskon = 0.15;
+        
 
         System.out.println("Menghitung Total Bayar!");
         System.out.print("Masukkan Harga Barang: ");
