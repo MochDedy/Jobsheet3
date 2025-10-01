@@ -8,6 +8,7 @@ public class MenghitungLuasPersegiPanjang14{
         int Panjang;
         int Lebar;
         int Luas;
+        
 
         System.out.println("Menghitung Luas Persegi Panjang!");
         System.out.print("Masukkan ukuran Panjang: ");
