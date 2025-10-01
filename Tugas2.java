@@ -19,5 +19,6 @@ public class Tugas2 {
         System.out.println("Jarak Perjalanan: " +Jarak +"km");
         System.out.println("Bensin yang diperlukan: " +LiterBensin +"Liter");
         System.out.println("Total Biaya bensin: Rp." + TotalBiaya);
+        
     }
 }
