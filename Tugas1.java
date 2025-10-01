@@ -22,6 +22,7 @@ public class Tugas1 {
     SisaHutang = SisaCicilan + (SisaCicilan * Bulan * 0.01);
     Total = SisaHutang / Bulan;
 
+    
     System.out.print("Cicilan perbulan anda adalah: Rp. " + (int) Total);
     }
 }
